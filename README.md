@@ -40,26 +40,26 @@ Your First Deploy
 [x]  9. Exercise 4a - Video Solution 3:29
 [x] 10. Working with the Command Line Interface (CLI) 3:32
 [x] 11. Exercise 4b - Deploy and update an application using the CLI 0:00
-[ ] 12. Exercise 4b - Video Solution 14:53
-[ ] 13. Working with Eclipse 2:16
-[ ] 14. Exercise 4c - Deploy and update an application with Eclipse 0:00
-[ ] 15. Exercise 4c - Video Solution 13:18
-[ ] 16. Summary 0:40
+[x] 12. Exercise 4b - Video Solution 14:53
+[x] 13. Working with Eclipse 2:16
+[x] 14. Exercise 4c - Deploy and update an application with Eclipse 0:00
+[x] 15. Exercise 4c - Video Solution 13:18
+[x] 16. Summary 0:40
 
 Section: 5
 0 / 11
 DevOps
-[ ] 17. Introduction to DevOps Services 1:57
-[ ] 18. Exercise a - Integration with DevOps Services 0:00
-[ ] 19. Exercise a- Video Solution 4:34
-[ ] 20. Collaborating with DevOps Services 4:12
-[ ] 21. Exercise b - Working in DevOps services 0:00
-[ ] 22. Exercise b - Video Solution 4:28
-[ ] 23. Exercise c - DevOps Services Integration with Eclipse 0:00
-[ ] 24. Exercise c - Video Solution 6:55
-[ ] 25. Markdown 3:34
-[ ] 26. Exercise d - Modify the readme.md for your project 0:00
-[ ] 27. Exercise d - Video Solution 1:49
+[x] 17. Introduction to DevOps Services 1:57
+[x] 18. Exercise a - Integration with DevOps Services 0:00
+[x] 19. Exercise a- Video Solution 4:34
+[x] 20. Collaborating with DevOps Services 4:12
+[x] 21. Exercise b - Working in DevOps services 0:00
+[x] 22. Exercise b - Video Solution 4:28
+[x] 23. Exercise c - DevOps Services Integration with Eclipse 0:00
+[x] 24. Exercise c - Video Solution 6:55
+[x] 25. Markdown 3:34
+[x] 26. Exercise d - Modify the readme.md for your project 0:00
+[x] 27. Exercise d - Video Solution 1:49
 
 Section: 6
 0 / 13
