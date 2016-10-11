@@ -17,29 +17,29 @@ Solution Integrator Experienced - Certified by Ericsson
 Section: 1
 4 / 4
 Let's Get Started!
-[ ] 1. Course Introduction - Matt Fox 4:16
-[ ] 2. Instructor Introduction: Marcel Ribas 0:37
-[ ] 3. Instructor Introduction: Vinay Gupta 0:48
-[ ] 4. Lab setup Instructions and Free Bluemix Trial Account set up 0:00
+[x] 1. Course Introduction - Matt Fox 4:16
+[x] 2. Instructor Introduction: Marcel Ribas 0:37
+[x] 3. Instructor Introduction: Vinay Gupta 0:48
+[x] 4. Lab setup Instructions and Free Bluemix Trial Account set up 0:00
 
 Section: 2
 0 / 1
 Overview
-[ ] 5. Cloud Foundry Overview 8:37
+[x] 5. Cloud Foundry Overview 8:37
 
 Section: 3
 0 / 1
 A Tour of Cloud Foundry
-[ ] 6. Cloud Foundry Tour 6:59
+[x] 6. Cloud Foundry Tour 6:59
 
 Section: 4
 0 / 10
 Your First Deploy
-[ ]  7. Starters and Runtimes 1:11
-[ ]  8. Exercise 4a - Deploy your first application 0:00
-[ ]  9. Exercise 4a - Video Solution 3:29
-[ ] 10. Working with the Command Line Interface (CLI) 3:32
-[ ] 11. Exercise 4b - Deploy and update an application using the CLI 0:00
+[x]  7. Starters and Runtimes 1:11
+[x]  8. Exercise 4a - Deploy your first application 0:00
+[x]  9. Exercise 4a - Video Solution 3:29
+[x] 10. Working with the Command Line Interface (CLI) 3:32
+[x] 11. Exercise 4b - Deploy and update an application using the CLI 0:00
 [ ] 12. Exercise 4b - Video Solution 14:53
 [ ] 13. Working with Eclipse 2:16
 [ ] 14. Exercise 4c - Deploy and update an application with Eclipse 0:00
