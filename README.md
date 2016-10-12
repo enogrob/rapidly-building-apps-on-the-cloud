@@ -64,13 +64,13 @@ DevOps
 Section: 6
 0 / 13
 Create your App
-[ ] 28. Environment Variables 1:08
-[ ] 29. Exercise 6a – Your first Node.js application 0:00
-[ ] 30. Exercise 6a - Video Solution 4:59
-[ ] 31. package.json 0:45
-[ ] 32. Exercise 6b – Working with Node using Eclipse 0:00
-[ ] 33. Exercise 6b - Video Solution 5:44
-[ ] 34. Manifest File 1:00
+[x] 28. Environment Variables 1:08
+[x] 29. Exercise 6a – Your first Node.js application 0:00
+[x] 30. Exercise 6a - Video Solution 4:59
+[x] 31. package.json 0:45
+[x] 32. Exercise 6b – Working with Node using Eclipse 0:00
+[x] 33. Exercise 6b - Video Solution 5:44
+[xx] 34. Manifest File 1:00
 [ ] 35. Exercise 6c – Working with Node using DevOps Services 0:00
 [ ] 36. Exercise 6c - Video Solution 8:16
 [ ] 37. .cfignore 0:28
