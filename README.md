@@ -70,13 +70,13 @@ Create your App
 [x] 31. package.json 0:45
 [x] 32. Exercise 6b – Working with Node using Eclipse 0:00
 [x] 33. Exercise 6b - Video Solution 5:44
-[xx] 34. Manifest File 1:00
-[ ] 35. Exercise 6c – Working with Node using DevOps Services 0:00
-[ ] 36. Exercise 6c - Video Solution 8:16
-[ ] 37. .cfignore 0:28
+[x] 34. Manifest File 1:00
+[x] 35. Exercise 6c – Working with Node using DevOps Services 0:00
+[x] 36. Exercise 6c - Video Solution 8:16
+[x] 37. .cfignore 0:28
 [ ] 38. Exercise 6d – Selecting files to include in your application 0:00
-[ ] 39. Exercise 6d - Video Solution 4:34
-[ ] 40. Summary 0:51
+[x] 39. Exercise 6d - Video Solution 4:34
+[x] 40. Summary 0:51
 
 Section: 7
 0 / 7
