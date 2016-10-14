@@ -74,28 +74,28 @@ Create your App
 [x] 35. Exercise 6c – Working with Node using DevOps Services 0:00
 [x] 36. Exercise 6c - Video Solution 8:16
 [x] 37. .cfignore 0:28
-[ ] 38. Exercise 6d – Selecting files to include in your application 0:00
+[x] 38. Exercise 6d – Selecting files to include in your application 0:00
 [x] 39. Exercise 6d - Video Solution 4:34
 [x] 40. Summary 0:51
 
 Section: 7
 0 / 7
 Services
-[ ] 41. Cloud Foundry Services 1:07
-[ ] 42. Exercise 7a – Adding a service to an application 0:00
-[ ] 43. Exercise 7a - Video Solution 13:20
-[ ] 44. Making Money with your own services 3:04
-[ ] 45. Exercise 7b – Creating a user-provided service 0:00
-[ ] 46. Exercise 7b - Video Solution 6:14
-[ ] 47. Summary 0:29
+[x] 41. Cloud Foundry Services 1:07
+[x] 42. Exercise 7a – Adding a service to an application 0:00
+[x] 43. Exercise 7a - Video Solution 13:20
+[x] 44. Making Money with your own services 3:04
+[x] 45. Exercise 7b – Creating a user-provided service 0:00
+[x] 46. Exercise 7b - Video Solution 6:14
+[x] 47. Summary 0:29
 
 Section: 8
 0 / 4
 How it Works
-[ ] 48. Cloud Foundry Architecture 7:23
-[ ] 49. Exercise 8a – Specifying a buildpack when deploying an application 0:00
-[ ] 50. Exercise 8a - Video Solution 4:38
-[ ] 51. Services Architecture 1:15
+[x] 48. Cloud Foundry Architecture 7:23
+[x] 49. Exercise 8a – Specifying a buildpack when deploying an application 0:00
+[x] 50. Exercise 8a - Video Solution 4:38
+[x] 51. Services Architecture 1:15
 
 Section: 9
 0 / 12
